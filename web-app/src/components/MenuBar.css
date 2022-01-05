@@ -1,0 +1,22 @@
+.Menustyling{
+    max-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    border-radius: 15px;
+/*minHeight: "500px"*/
+}
+
+/*.TabStyling{
+    border: 1px solid #800000;
+    background-color: #FFFDD0;
+    padding: 0;
+    margin: 0;
+    width: 22%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    opacity: 0.8;
+    flex: 1;
+}*/
